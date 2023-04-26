@@ -1,5 +1,5 @@
-import React from "react";
-import cover from "../static/img/shershaah.webp";
+import React from 'react';
+import cover from '../static/img/shershaah.webp';
 
 const SongCard = () => {
   return (
